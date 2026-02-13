@@ -1,0 +1,6 @@
+
+Gemini (Simulated Response)
+
+Prompt: Summarize AI in 3 sentences
+
+This is a placeholder response while Gemini API integration is being finalized.
